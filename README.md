@@ -1,9 +1,12 @@
 <h1>Luis Octávio</h1>
 
 
-Welcome to my GitHub profile, I'm a graduate of Philosophy. I really love philosophy, but I love technology and **programming** more. 
+Welcome to my GitHub profile, I have thirty years old and live in Rio de Janeiro. I'm a graduate of Philosophy. I really love philosophy, but I love technology and **programming** more. 
 When I was fifteen, I was dreaming about computer science or other courses that had something to do with programming. But life has taken me in another direction; I've had to work on other things to live on when I was eighteen. Twelve years later, I'm coming back to this area to become a **programmer**. 
-With my graduation in philosophy, I learned a very crucial thing: if I want to reach a goal, e.g., if I want to become a programmer — in my case — all I need to do is become focused and persevere. Studying, practicing, and creating things that will help people to achieve their goals too. 
+With my graduation in philosophy, I learned a very crucial thing: if I want to reach a goal, e.g., if I want to become a programmer—in my case—all I need to do is become focused and persevere. Studying, practicing, and creating things that will help people to achieve their goals too. 
+
+<div class="tenor-gif-embed" data-postid="14981685377760273746" data-share-method="host" data-aspect-ratio="0.97992" data-width="100%"><a href="https://tenor.com/view/cat-funny-cathands-cat-in-hat-cat-with-hands-silly-cat-gif-14981685377760273746">Cat Funny Cathands GIF</a>from <a href="https://tenor.com/search/cat+funny-gifs">Cat Funny GIFs</a></div>
+
 
 
 <h2>Tools and Technologies</h2>
