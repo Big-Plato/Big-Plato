@@ -5,7 +5,7 @@ Welcome to my GitHub profile, I have thirty years old and live in Rio de Janeiro
 When I was fifteen, I was dreaming about computer science or other courses that had something to do with programming. But life has taken me in another direction; I've had to work on other things to live on when I was eighteen. Twelve years later, I'm coming back to this area to become a **programmer**. 
 With my graduation in philosophy, I learned a very crucial thing: if I want to reach a goal, e.g., if I want to become a programmer—in my case—all I need to do is become focused and persevere. Studying, practicing, and creating things that will help people to achieve their goals too. 
 
-<img align="center" src="https://media1.tenor.com/m/z-mjeYYQpVIAAAAd/cat-funny-cathands.gif" style="margin: 0;" width="300px" height="450px"/>
+<img align="center" src="https://media1.tenor.com/m/z-mjeYYQpVIAAAAd/cat-funny-cathands.gif" style="margin: 0;" width="300px" height="400px"/>
 
 <h2>Tools and Technologies</h2>
 
@@ -23,12 +23,12 @@ With my graduation in philosophy, I learned a very crucial thing: if I want to r
 
 ---
 
-<div>
-<a href="https://github.com/Big-Plato">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Big-Plato&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Big-Plato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
+<p align="center">
+<a href="https://github.com/jeniblodev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Big-Plato&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Big-Plato&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
