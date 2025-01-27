@@ -1,4 +1,4 @@
-<h1 style="text-align: center;" >Hello, my name is Luis Octávio...</h1>
+<h1 style="text-align: center;" markdown="1">Hello, my name is Luis Octávio...</h1>
 <h2>Welcome to my Github Profile</h2>
 
 <!---
