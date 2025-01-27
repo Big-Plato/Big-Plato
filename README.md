@@ -1,8 +1,10 @@
 <h1 style="text-align: center;">Welcome to my Github Profile</h1>
 
-<h2>Luis Octávio</h2>
+My name is Luis Octávio and I'm a graduate of Philosophy. I really love Philosophy, but I love more technology and programming. 
+Philosophy has teached me that, if I want to reach a goal, e.g. if I want to become a programmer - in my case - all I need to do is became focused and persevere. Studying, practicing and create things that will helpe people to achieve their goals too.
 
-<h2>Ferramentas e tecnologias</h2>
+
+<h2>Tools and Technologies</h2>
 
 <div style="display: flex">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40px" height="40px"/>         
