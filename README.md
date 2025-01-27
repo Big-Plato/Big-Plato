@@ -1,4 +1,4 @@
-<h1>Welcome to my Github Profile</h1>
+<h1 style="text-align: center;">Welcome to my Github Profile</h1>
 
 <h2>Luis Octávio</h2>
 
