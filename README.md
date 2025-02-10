@@ -7,10 +7,6 @@ When I was fifteen, I was dreaming about computer science or other courses that 
 <br>
 With my graduation in philosophy, I learned a very crucial thing: if I want to reach a goal, e.g., if I want to become a programmer—in my case—all I need to do is become focused and persevere. Studying, practicing, and creating things that will help people to achieve their goals too.</p>
 <br>
-<p align="center">
-  <img src="https://media1.tenor.com/m/z-mjeYYQpVIAAAAd/cat-funny-cathands.gif" style="margin: 0;" width="300px" height="350px"/>
-</p>
-
 
 <h2> 🖥️ Tools and Technologies</h2>
 
