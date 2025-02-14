@@ -3,10 +3,6 @@
 
 <p>Welcome to my GitHub profile! I have thirty years old and live in Rio de Janeiro, I'm a graduate of Philosophy. I really love philosophy, but I love technology and <strong>programming</strong> more. 
 <br>
-When I was fifteen, I was dreaming about computer science or other courses that had something to do with programming. But life has taken me in another direction; I've had to work on other things to live on when I was eighteen. Twelve years later, I'm coming back to this area to become a <strong>programmer</strong>. 
-<br>
-With my graduation in philosophy, I learned a very crucial thing: if I want to reach a goal, e.g., if I want to become a programmer—in my case—all I need to do is become focused and persevere. Studying, practicing, and creating things that will help people to achieve their goals too.</p>
-<br>
 
 <h2> 🖥️ Tools and Technologies</h2>
 
@@ -17,6 +13,8 @@ With my graduation in philosophy, I learned a very crucial thing: if I want to r
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40px"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40px"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40px"/>
+
 <br>
 </div>
 <br>
@@ -24,8 +22,11 @@ With my graduation in philosophy, I learned a very crucial thing: if I want to r
 <h2> :ledger: Currently learning </h2>
 <div style="display: flex">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40px"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="40px"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" width="40px"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rubymine/rubymine-original.svg" width="40px"/>
+          
+          
 </div>
 
 <h2>Want to reach me?</h2>
