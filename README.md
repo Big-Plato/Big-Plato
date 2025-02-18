@@ -40,8 +40,8 @@
 <br>
 <p align="center" style="display: flex; gap:10px;">
 <a href="https://github.com/Big-Plato">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Big-Plato&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Big-Plato&layout=compact&langs_count=8&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Big-Plato&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Big-Plato&layout=compact&langs_count=8&theme=swift"/>
 </a>
 </p>
 
