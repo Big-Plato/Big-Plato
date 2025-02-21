@@ -1,7 +1,7 @@
 <h1 align="left">Luis Octávio</h1>
 
 
-<p>Welcome to my GitHub profile! I have thirty years old and live in Rio de Janeiro, I'm a graduate of Philosophy. I really love philosophy, but I love technology and <strong>programming</strong> more. 
+<p>Welcome to my GitHub profile! I have thirty years old and live in Rio de Janeiro, I'm a graduate of Philosophy. I really love philosophy, but I love technology and <strong>programming</strong> more. That's why I study to become a FullStack Developer. 
 <br>
 
 <h2> 🖥️ Tools and Technologies</h2>
