@@ -1,7 +1,7 @@
-<h1 align="left">Luis Octávio</h1>
+<h1 align="left">Hi! My name is Luis Octávio</h1>
 
 
-<p>Welcome to my GitHub profile! I have thirty years old and live in Rio de Janeiro, I'm a graduate of Philosophy. I really love philosophy, but I love technology and <strong>programming</strong> more. That's why I study to become a FullStack Developer. 
+<p color="white">I have thirty years old and live in Rio de Janeiro, I'm a graduate of Philosophy. I really love philosophy, but I love technology and <strong>programming</strong> more. That's why I study to become a FullStack Developer.</p>
 <br>
 
 <h2> 🖥️ Tools and Technologies</h2>
@@ -13,7 +13,6 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40px"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40px"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40px"/>
 
 <br>
 </div>
@@ -21,10 +20,14 @@
 
 <h2> :ledger: Currently learning </h2>
 <div style="display: flex">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="40px"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" width="40px"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rubymine/rubymine-original.svg" width="40px"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40px"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40px" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40px"/>
+
+
+
+
           
           
 </div>
