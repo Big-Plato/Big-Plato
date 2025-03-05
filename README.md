@@ -24,12 +24,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40px" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40px"/>
-
-
-
-
-          
-          
+         
 </div>
 
 <h2>Want to reach me?</h2>
@@ -43,8 +38,8 @@
 <br>
 <p align="center" style="display: flex; gap:10px;">
 <a href="https://github.com/Big-Plato">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Big-Plato&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Big-Plato&layout=compact&langs_count=8&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Big-Plato&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Big-Plato&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
 
