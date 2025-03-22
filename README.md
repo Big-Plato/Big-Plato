@@ -15,7 +15,7 @@ I've always loved technology, and I'm a self-taught developer who studies every 
 
 ### Skills
 #### Languages
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 20px;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40px"/>         
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40px"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40px"/>
@@ -23,7 +23,7 @@ I've always loved technology, and I'm a self-taught developer who studies every 
 </div>
 
 #### Tools & Technologies
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 20px;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40px"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40px" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px"/>
