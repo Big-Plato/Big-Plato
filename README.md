@@ -19,7 +19,7 @@ I've always loved technology, and I'm a self-taught developer who studies every 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40px"/>         
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40px"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40px"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ytypescript/typescript-original.svg" width="40px"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px"/>
 </div>
 
 #### Tools & Technologies
@@ -28,6 +28,11 @@ I've always loved technology, and I'm a self-taught developer who studies every 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40px" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40px"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40px"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40px"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width="40px"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40px"/>
+
 </div>
 
 #### Soft Skills
@@ -61,8 +66,8 @@ I've always loved technology, and I'm a self-taught developer who studies every 
 ### GitHub Stats
 <p align="center" style="display: flex; gap: 10px;">
   <a href="https://github.com/Big-Plato">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Big-Plato&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Big-Plato&layout=compact&langs_count=8&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Big-Plato&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Big-Plato&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
   </a>
 </p>
 
