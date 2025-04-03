@@ -6,12 +6,14 @@ Sempre amei tecnologia, por isso me tornei um desenvolvedor autodidata que estud
      
 O fato de estudar todos os dias tem muito a ver com algo que aprendi com Sócrates, outro grande filósofo, que dizia:  
 
-> "_Aquilo que se torna bom só continua bom por meio do exercício_". 
+> "_Aquilo que se torna bom só continua bom por meio do exercício_".
+
+Esses dois princípios - Sempre buscar aprender mais e exercitar aquilo em que quero me tornar bom - guiam meu aprendizado e desenvolvimento.
 
 ---
 
 - 🎓 **Graduado em Filosofia**: Forte base em resolução de problemas e pensamento crítico-lógico.  
-- 🚀 **Self-Taught Developer**: Amante da tecnologia e do aprendizado contínuo.  
+- 🚀 **Desenvolvedor autodidata**: Entusiasta da tecnologia e do aprendizado contínuo.  
 - 💡 **Interesses**: Filosofia, tecnologia e a intersecção entre os dois.
 - 🌱 **Estudando atualmente**:
 1. Java e Spring Boot, Desenvolvimento Back-end (**Alura + One**).  
@@ -50,13 +52,10 @@ O fato de estudar todos os dias tem muito a ver com algo que aprendi com Sócrat
 
 ---
 
-### GitHub Stats
-<p align="center" style="display: flex; gap: 10px;">
-  <a href="https://github.com/Big-Plato">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Big-Plato&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Big-Plato&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
-  </a>
-</p>
+### Github Status
+![Big-Plato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Big-Plato&theme=graywhite)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Big-Plato&layout=donut&theme=graywhite)
 
 ---
 
