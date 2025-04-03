@@ -1,4 +1,5 @@
-# Bem vindo, meu nome é Luis Octávio! 👋
+# Bem vindo ao meu perfil 👋
+## Meu nome é Luis Octávio...
 
 Sou graduado em Filosofia e, atualmente, estou cursando mestrado na mesma área.  
 Sempre amei tecnologia, por isso me tornei um desenvolvedor autodidata que estuda todos os dias para aprimorar aquilo que sei e aprender mais sobre o que não sei. Nietzsche, um grande filósofo, disse uma vez: 
