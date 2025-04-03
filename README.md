@@ -63,4 +63,4 @@ Esses dois princípios - Sempre buscar aprender mais e exercitar aquilo em que q
 
 ---
 
-Sinta-se livre para se conectar se quiser colaborar ou apenas falar sobre filosofia e tecnologia. 
+Sinta-se livre para conectar se quiser colaborar ou apenas falar sobre filosofia e tecnologia. 
