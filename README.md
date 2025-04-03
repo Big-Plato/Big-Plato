@@ -13,12 +13,14 @@ Esses dois princípios - Sempre buscar aprender mais e exercitar aquilo em que q
 
 ---
 
+## Sobre mim
 - 🎓 **Graduado em Filosofia**: Forte base em resolução de problemas e pensamento crítico-lógico.  
 - 🚀 **Desenvolvedor autodidata**: Entusiasta da tecnologia e do aprendizado contínuo.  
 - 💡 **Interesses**: Filosofia, tecnologia e a intersecção entre os dois.
 - 🌱 **Estudando atualmente**:
 1. Java e Spring Boot, Desenvolvimento Back-end (**Alura + One**).  
-2. JavaScript, HTML, CSS, React and Node [**The Odin Project**](https://www.theodinproject.com/dashboard).  
+2. JavaScript, HTML, CSS, React and Node [**The Odin Project**](https://www.theodinproject.com/dashboard).
+   
 
 ---
 
