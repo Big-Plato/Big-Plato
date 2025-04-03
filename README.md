@@ -28,7 +28,7 @@ Esses dois princípios - Sempre buscar aprender mais e exercitar aquilo em que q
 #### Linguagens 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
 
-### Aprendendo 
+#### Aprendendo 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,react,nodejs)](https://skillicons.dev)
 
 
