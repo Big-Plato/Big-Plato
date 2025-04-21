@@ -56,9 +56,8 @@ Esses dois princípios - Sempre buscar aprender mais e exercitar aquilo em que q
 ---
 
 ### Github Status
-![Big-Plato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Big-Plato&theme=graywhite)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Big-Plato&layout=donut&theme=graywhite)
+![Big-Plato's Stats](https://github-readme-stats.vercel.app/api?username=Big-Plato&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![Big-Plato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Big-Plato&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
