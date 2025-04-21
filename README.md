@@ -31,7 +31,7 @@ Esses dois princípios - Sempre buscar aprender mais e exercitar aquilo em que q
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
 
 
-#### Ferramentas e Tecnologias 
+#### Ferramentas & Tecnologias 
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,idea,npm,babel,webpack,git,github,vite)](https://skillicons.dev)
 
 ---
