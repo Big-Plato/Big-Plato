@@ -1,14 +1,8 @@
 # Bem vindo ao meu perfil 👋
 
 Sou graduado em Filosofia e, atualmente, estou cursando mestrado na mesma área.  
-Sempre amei tecnologia, por isso me tornei um desenvolvedor autodidata que estuda todos os dias para aprimorar aquilo que sei e aprender mais sobre o que não sei. Nietzsche, um grande filósofo, disse uma vez: 
-> "_É preciso se perder para conhecer as coisas das quais não somos_".
-     
-O fato de estudar todos os dias tem muito a ver com algo que aprendi com Sócrates, outro grande filósofo, que dizia:  
-
-> "_Aquilo que se torna bom só continua bom por meio do exercício_".
-
-Esses dois princípios - Sempre buscar aprender mais e exercitar aquilo em que quero me tornar bom - guiam meu aprendizado e desenvolvimento.
+Sempre amei tecnologia, por isso me tornei um desenvolvedor autodidata que estuda todos os dias para aprimorar aquilo que sei e aprender mais sobre o que não sei.
+ETenho dois princípios - Sempre buscar aprender mais e exercitar aquilo em que quero me tornar bom - guiam meu aprendizado e desenvolvimento.
 
 ---
 
